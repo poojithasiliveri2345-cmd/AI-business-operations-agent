@@ -2,7 +2,7 @@
 
 This is my project on Sales/CRM and customer operations. It forecasts the profit of each product category and also answers policy questions (shipping, returns, discounts) using a chatbot. The agent combines both: if profit is going down, it shows the related policy.
 
-Live app: [[paste your streamlit link here](https://ai-business-operations-agent-xwhoqewylvwt8tbtev2kdu.streamlit.app/)]
+Live app: [(https://ai-business-operations-agent-xwhoqewylvwt8tbtev2kdu.streamlit.app/)]
 
 ## What this project does
 1. **Forecasting** - predicts next month profit for Furniture, Office Supplies and Technology.
