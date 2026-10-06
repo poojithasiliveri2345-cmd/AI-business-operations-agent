@@ -38,9 +38,9 @@ Train/test split was done by date (first 80% months train, last 20% test), not r
 
 | Model | RMSE | MAE | R2 |
 |---|---|---|---|
-| Linear Regression | [fill] | [fill] | [fill] |
-| Random Forest | [fill] | [fill] | [fill] |
-| XGBoost | [fill] | [fill] | [fill] |
+| Linear Regression | [6592.27] | [5148.0] | [0.322] |
+| Random Forest | [5982.13] | [ 4550.66] | [ 0.442] |
+| XGBoost | [6196.76] | [ 4571.03] | [ 0.401] |
 
 Random Forest gave the best result so I used it. R2 is not very high because there are only 135 monthly rows (3 categories x 45 months).
 
